@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Projeto do Gustavo Diel que pode ser ou não de outra pessoa
+${licensePrefix}Não copie :). Ou dê os créditos.
+<#if licenseLast??>
+${licenseLast}
+</#if>
