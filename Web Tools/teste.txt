@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="j_idt2">
+        	<meta http-equiv="content-language" content="pt-br" />
+        	<meta http-equiv="cache-control" content="no-cache" />
+            <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+            <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+            <meta name="apple-mobile-web-app-capable" content="yes" />
+            
+            <meta name="reply-to" content="edusoft@edusoft.com.br" />
+            
+            <meta name="author" content="Edusoft Tecnologia" />
+            <meta name="description" content="Sistemas de Gestão Educacional" />
+			<meta name="keywords" content="sistema, gestão educacional, edusoft, universidade corporativa, cursos, módulos sob medida, sistema para instituições educacionais, educação, gestão escolar, gestão acadêmica, sistema para escolas, sistema para universidades, sistema para faculdades" />
+			
+			<meta name="robots" content="index, follow" /><link type="text/css" rel="stylesheet" href="/sigaSecurityG5/javax.faces.resource/theme.css.jsf?ln=primefaces-sentinel" /><link type="text/css" rel="stylesheet" href="/sigaSecurityG5/javax.faces.resource/fa/font-awesome.css.jsf?ln=primefaces&amp;v=6.1" /><link type="text/css" rel="stylesheet" href="/sigaSecurityG5/javax.faces.resource/edu-base.css.jsf?ln=css&amp;ve=06160100" /><link type="text/css" rel="stylesheet" href="/sigaSecurityG5/javax.faces.resource/edu-base-jsf.css.jsf?ln=css&amp;ve=06160100" /><link type="text/css" rel="stylesheet" href="/sigaSecurityG5/javax.faces.resource/app.css.jsf?ln=css&amp;ve=06160100" /><link type="text/css" rel="stylesheet" href="/sigaSecurityG5/javax.faces.resource/jquery.toast/jquery.toast.min.css.jsf?ln=plugins" /><link type="text/css" rel="stylesheet" href="/sigaSecurityG5/javax.faces.resource/components.css.jsf?ln=primefaces&amp;v=6.1" /><script type="text/javascript" src="/sigaSecurityG5/javax.faces.resource/jquery/jquery.js.jsf?ln=primefaces&amp;v=6.1"></script><script type="text/javascript" src="/sigaSecurityG5/javax.faces.resource/jquery/jquery-plugins.js.jsf?ln=primefaces&amp;v=6.1"></script><script type="text/javascript" src="/sigaSecurityG5/javax.faces.resource/core.js.jsf?ln=primefaces&amp;v=6.1"></script><script type="text/javascript" src="/sigaSecurityG5/javax.faces.resource/components.js.jsf?ln=primefaces&amp;v=6.1"></script><link type="text/css" rel="stylesheet" href="/sigaSecurityG5/javax.faces.resource/css/font-icon-layout.css.jsf?ln=sentinel-layout" /><link type="text/css" rel="stylesheet" href="/sigaSecurityG5/javax.faces.resource/css/sentinel-layout.css.jsf?ln=sentinel-layout" /><link type="text/css" rel="stylesheet" href="/sigaSecurityG5/javax.faces.resource/css/core-layout.css.jsf?ln=sentinel-layout" /><script type="text/javascript">if(window.PrimeFaces){PrimeFaces.settings.locale='pt_BR';}</script><script type="text/javascript" src="/sigaSecurityG5/javax.faces.resource/js/layout.js.jsf?ln=sentinel-layout"></script><script type="text/javascript" src="/sigaSecurityG5/javax.faces.resource/ready.js.jsf?ln=js&amp;ve=06160100"></script><script type="text/javascript" src="/sigaSecurityG5/javax.faces.resource/cookies.js.jsf?ln=js&amp;ve=06160100"></script><script type="text/javascript" src="/sigaSecurityG5/javax.faces.resource/cookiesAfter.js.jsf?ln=js&amp;ve=06160100"></script>	
+        <!-- Import de css e javascript -->
+	
+	<!-- css padr&atilde;o da edusoft -->
+	
+    <!-- javaScript padr&atilde;o da edusoft --><script type="text/javascript" src="/sigaSecurityG5/javax.faces.resource/edu-base.js.jsf?ln=js&amp;ve=06160100"></script><script type="text/javascript" src="/sigaSecurityG5/javax.faces.resource/edu-base-jsf.js.jsf?ln=js&amp;ve=06160100"></script><script type="text/javascript" src="/sigaSecurityG5/javax.faces.resource/app.js.jsf?ln=js&amp;ve=06160100"></script>
+	
+	<!-- Chamada para verificacao de controle de sessao -->
+	<script type="text/javascript">
+		$(document).ready(function(){ verificaSessaoExpirada();	});
+	</script>
+	
+	<!-- plugins --><script type="text/javascript" src="/sigaSecurityG5/javax.faces.resource/jquery.toast/jquery.toast.min.js.jsf?ln=plugins"></script>
+		<title>Mentor Web - Sistema de gestão educacional | Edusoft Tecnologia</title></head><body>
+			<!-- P&aacute;gina personalizada --><span id="naoConseguiuLogar"></span><script id="naoConseguiuLogar_s" type="text/javascript">$(function(){PrimeFaces.cw('Growl','widget_naoConseguiuLogar',{id:'naoConseguiuLogar',sticky:false,life:4815,escape:true,msgs:[]});});</script><div id="j_idt24" class="ui-outputpanel ui-widget">
+		<!-- carrega css personalizado -->
+		<style type="text/css">
+			/* Quando o cliente usa css personalizado é necessário jogar esse 
+			   que vem do PlcLogin.css, para alterar a fonte */
+			*{
+				margin: 0;
+				padding: 0;
+				font: bold 11px Verdana, sans-serif;
+			}
+			
+			.ui-growl-item-container{
+			
+				 /* IE 8 */
+				 -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=95)";
+				
+				 /* IE 5-7 */
+				 filter: alpha(opacity=95);
+				
+				 /* Netscape */
+				 -moz-opacity: .95 !important;
+				
+				 /* Safari 1.x */
+				 -khtml-opacity: .95 !important;				
+				 
+				 /* Good browsers */
+				 opacity: .95 !important;							
+			}
+		
+			body   {   background-image: url(/imagens/fundo_siga_udesc.jpg);   background-repeat: repeat-x;   margin-left: 0px;   margin-top: 0px;   margin-right: 0px;   margin-bottom: 0px;   background-color: #C0D8DA;   font-family: Verdana, Geneva, sans-serif;   font-size: 12px;  }    #tl_login  {   //margin: 50% auto;   //width: 500px;      width: 500px;   height: 400px;   top: 50%;   left: 50%;   margin-top: -200px;   margin-left: -250px;   position: absolute;  }    #logo  {   padding-bottom: 20px;  }    #logo, #linha  {   text-align: center;  }    #lb_usuario  {   margin-left: 105px;   font-weight: bold;   color: #B21818;   padding-bottom: 20px;   padding-top: 70px;   float:left;   width: 45px;  }    #inp_usuario  {   font-weight: bold;   color: #FFF;   padding-top: 63px;   padding-bottom: 12px;   float:left;  }    #inp_usuario input  {   border: 1px solid #297DB9;   font-family: Verdana, Geneva, sans-serif;   font-size: 12px;   width: 300px;   height: 25px;  }    #qLinha  {    clear: both;  }    #lb_senha  {   margin-left: 90px;   font-weight: bold;   color: #297DB9;   padding-top: 7px;   padding-bottom: 20px;   float:left;   width: 60px;  }    #inp_senha  {   font-weight: bold;   color: #FFF;   padding-bottom: 12px;   float:left;  }    #inp_senha input  {   border: 1px solid #297DB9;   font-family: Verdana, Geneva, sans-serif;   font-size: 12px;   width: 300px;   height: 25px;  }    #btn_conectar  {   text-align: center;   padding-top: 20px;   padding-bottom: 50px;   margin-left: 100px;  }    #txt  {   padding-top: 20px;   color: #297DB9;   text-align: center;   font-size: 10px;  }    #txt a:Link, #txt a:Visited  {   color: #297DB9;   text-decoration: none;  }    #txt a:Hover  {   color: #39C;   text-decoration: underline;  }    #powered  {    position: absolute;     right: 20px;     bottom: 20px;    z-index:10;  }    #btnLogin {   border:none;   width:132px;   height:24px;   color:#000;   cursor: pointer;  }
+		</style></div><div id="j_idt26" class="ui-outputpanel ui-widget"><div id="tl_login"> <form id="formLogin" name="formLogin" METHOD="POST" ACTION="" onsubmit="return do_encrypt();" > <div id="logo"> <img src="/imagens/logo.jpg"/> </div> <div id="linha"> <img src="/imagens/linha.jpg"/> </div> <div id="lb_usuario" style="color:#DF1F1F" > CPF </div> <div id="inp_usuario"> <input id="j_username" name="j_username" type="text"/> </div> <div id="qLinha"></div> <div id="lb_senha"> Senha </div> <div id="inp_senha"> <input id="senha" name="senha" type="password"/>  </div> <div id="qLinha"></div> <div id="btn_conectar"> <input type="button" onclick="realizarLogin();"  id="btnLogin" name="btnLogin" style="display: inline; background:transparent url('/imagens/btn_conectar.jpg') no-repeat;"  value=""/> <div id="txt"> <a href="#" onClick="redefinirSenha();"> Não tem ou esqueceu a sua senha? </a> </div> </div> <div id="linha"> <img src="/imagens/linha.jpg"/> </div> <div id="txt"> Configurações recomendadas: Firefox; Internet explorer 7, 8 ou 9 <br/> Resolução de 1024 x 768 pixels <br/> Bloqueador de Pop-ups desabilitado </div> </form> </div> <div id="powered"> <img src="/imagens/powered.jpg" /> </div> <script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-36796961-1']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script></div><script type="text/javascript" src="/sigaSecurityG5/javax.faces.resource/login.personalizado.js.jsf?ln=js&amp;ve=06160100"></script>
+<form id="loginFormHidden" name="loginFormHidden" method="post" action="/sigaSecurityG5/login.jsf" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="loginFormHidden" value="loginFormHidden" />
+<input id="loginFormHidden:username_hidden" type="hidden" name="loginFormHidden:username_hidden" /><input id="loginFormHidden:password_hidden" type="hidden" name="loginFormHidden:password_hidden" /><input id="loginFormHidden:mantemConectado_hidden" type="hidden" name="loginFormHidden:mantemConectado_hidden" value="false" /><input id="loginFormHidden:ticketCas_hidden" type="hidden" name="loginFormHidden:ticketCas_hidden" /><input id="loginFormHidden:tokenPush_hidden" type="hidden" name="loginFormHidden:tokenPush_hidden" /><input id="loginFormHidden:usuarioApp_hidden" type="hidden" name="loginFormHidden:usuarioApp_hidden" /><input id="loginFormHidden:uriRetorno_hidden" type="hidden" name="loginFormHidden:uriRetorno_hidden" /><script id="loginFormHidden:j_idt64" type="text/javascript">realizaLogin = function() {PrimeFaces.ab({s:"loginFormHidden:j_idt64",f:"loginFormHidden",p:"loginFormHidden",pa:arguments[0]});}</script><input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:0" value="-843315990134515025:-4500773846695576485" autocomplete="off" />
+</form><script type="text/javascript" src="/sigaSecurityG5/javax.faces.resource/login.realiza-login.js.jsf?ln=js&amp;ve=06160100"></script><script type="text/javascript" src="/sigaSecurityG5/javax.faces.resource/login.nova-senha.js.jsf?ln=js&amp;ve=06160100"></script><script type="text/javascript" src="/sigaSecurityG5/javax.faces.resource/login.js.jsf?ln=js&amp;ve=06160100"></script><div id="j_idt68"></div><script id="j_idt68_s" type="text/javascript">$(function(){PrimeFaces.cw("AjaxStatus","widget_j_idt68",{id:"j_idt68",start:function(){PF('statusDialog').show()},success:function(){},complete:function(){PF('statusDialog').hide()}});});</script><div id="ajaxStatusCarregando" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container"><div style="max-height:200px overflow:auto" class="ui-dialog-content ui-widget-content"><img src="/sigaSecurityG5/javax.faces.resource/imagens/ajax_aguarde.gif.jsf?ln=edusoft&amp;ve=06160100" /></div></div><script id="ajaxStatusCarregando_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","statusDialog",{id:"ajaxStatusCarregando",draggable:false,resizable:false,modal:true});});</script><script type="text/javascript">$(function(){PrimeFaces.focus(null,'formPrincipal:panelContent');;PrimeFaces.focus('formPrincipal:argPesquisa');;});</script></body>
+</html>
