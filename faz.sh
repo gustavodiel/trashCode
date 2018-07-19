@@ -1,2 +1,0 @@
-./oi
-feh yolo.ppm
