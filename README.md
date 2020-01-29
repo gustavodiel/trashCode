@@ -1,4 +1,7 @@
 # trashCode
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
+
+
 A bunch 'o trashy code I made during my free time. It includes some usefull stuff, like sockets and what not, but also contains pure garbage, such as some random string codes I made in Lua
 
 One day, I might as well comment the code and/or organize it. I dont know. Maybe if I fell like and I have the time
